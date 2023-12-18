@@ -40,6 +40,9 @@
     <Reference Include="BepInEx">
       <HintPath>..\..\..\..\..\Steam\steamapps\common\Lethal Company\BepInEx\core\BepInEx.dll</HintPath>
     </Reference>
+    <Reference Include="LC_API">
+      <HintPath>C:\Users\Trent\Downloads\2018-LC_API-2.2.0\LC_API.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
